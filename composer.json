@@ -1,0 +1,10 @@
+{
+    "name": "smeghead/sample-library-oop",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Smeghead\\SampleLibraryOop\\": "src/"
+        }
+    },
+    "require": {}
+}

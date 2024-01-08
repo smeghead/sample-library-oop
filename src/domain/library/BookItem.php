@@ -6,6 +6,5 @@ namespace Smeghead\SampleLibraryOop\Library;
 
 final class BookItem
 {
-    private Book $book;
     private string $bookId;
 }

@@ -7,4 +7,6 @@ namespace Smeghead\SampleLibraryOop\Library;
 final class Book
 {
     private string $bookId;
+    /** @var BookItem[] */
+    private array $bookItems;
 }
